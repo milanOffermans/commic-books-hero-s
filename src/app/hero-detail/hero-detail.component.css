@@ -1,0 +1,23 @@
+label {
+    color: pink;
+    font-weight: bold;
+  }
+  input {
+    font-size: 1em;
+    padding: .5rem;
+  }
+  button {
+    margin-top: 20px;
+    background-color: purple;
+    padding: 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  button:hover {
+    background-color: pink;
+  }
+  button:disabled {
+    background-color: purple;
+    color: whitesmoke;
+    cursor: auto;
+  }
