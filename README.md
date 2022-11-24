@@ -39,5 +39,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ►styling app compoment
 ►tutorial 4 en gedeelte 5
 ## 0.20102022
-►
-►
+► werken aan tutorial en bestanden aan maken
+►verder aan styling
+## 0.24102022
+► verder met prachtige styling
+►tutorlial afmaken
